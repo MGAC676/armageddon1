@@ -4,4 +4,4 @@ Create a publically accessuble web page with Terraform.  You must complete the f
 3) The VM must have the homepage on it.
 4) The VM must have an publically accessible link to it.
 5) You must Git Push your script to your Github.
-6) Outpub file must show 1) Public IP, 2) VPC, 3) Subnet of the VM, 4) Internal IP of the VM.
+6) Output file must show 1) Public IP, 2) VPC, 3) Subnet of the VM, 4) Internal IP of the VM.
